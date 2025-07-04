@@ -25,6 +25,7 @@ ___________
 Basis Tukang<br>
 Base : 8<br>
 LV Mesin : 20<br>
+LV Helikopter : 15<br>
 Rank Tertiggi : Besi<br>
 Pasukan : Semi Max<br>
 Latar : 2<br>
