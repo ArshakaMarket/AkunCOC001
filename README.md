@@ -5,7 +5,7 @@ Desa Asal<br>
 Login : Supercell(Bisa CE email) <br>
 LV : 157 <br>
 TownHall : 13<br>
-Rank Tertinggi : Juara 1
+Rank Tertinggi : Juara 1 <br>
 LV Pasukan : Semi Max <br>
 Mantra : Semi Max <br>
 Mesin : Semi Max<br>
