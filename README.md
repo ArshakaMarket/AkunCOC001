@@ -31,3 +31,7 @@ LV Helikopter : 15<br>
 Rank Tertiggi : Besi<br>
 Pasukan : Semi Max<br>
 Latar : 2<br>
+________________
+#Full Screenshot <br>
+---
+https://drive.google.com/drive/folders/1--H80Uhy2UIlDyDaQIXUBXKM6BZ4NgmI?usp=sharing
