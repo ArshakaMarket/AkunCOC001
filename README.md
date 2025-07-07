@@ -1,7 +1,7 @@
 # AkunCOC001
 
 ![Screenshot_2025-07-06-18-01-48-103_com supercell clashofclans](https://github.com/user-attachments/assets/c562828d-771a-4188-b7ac-2d7a108af55c)
-
+Harga = 300.000 IDR/79 RM/19 USD<br>
 Desa Asal<br>
 Login : Supercell(Bisa CE email) <br>
 LV : 157 <br>
